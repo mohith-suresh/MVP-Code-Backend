@@ -1,0 +1,72 @@
+[
+    {
+        "id": "cf7a4299-ab73-4b0e-9405-f6d7a969eeb2",
+        "Situation": 1,
+        "Label": "Arrival of the Monsoon Mist",
+        "Description": "The chapter begins with the monsoon mist arriving, creating an eerie silence as birds stop singing.",
+        "ExtractedText": "June 24. The first day of monsoon mist. And it's strange how all the birds fall silent as the mist comes climbing up the hill. Perhaps that's what makes the mist so melancholy; not only does it conceal the hills, it blankets them in silence too."
+    },
+    {
+        "id": "b8b9131e-7766-44db-a1cb-97f57d7b513c",
+        "Situation": 2,
+        "Label": "Early Monsoon Rain",
+        "Description": "The early arrival of monsoon rain brings a warm and humid atmosphere, rejuvenating the local flora.",
+        "ExtractedText": "June 25. Some genuine early-monsoon rain, warm and humid, and not that cold high-altitude stuff we’ve been having all year. The plants seem to know it too, and the first cobra lily rears its head from the ferns as I walk up to the bank and post office. The mist affords a certain privacy. A school boy asked me to describe the hill station and valley in one sentence, and all I could say was: “A paradise that might have been.”"
+    },
+    {
+        "id": "83fb2c5e-75cb-485b-8f8c-04ba41e0a782",
+        "Situation": 3,
+        "Label": "Seasonal Visitors and Leopard Incident",
+        "Description": "The monsoon attracts leeches and a leopard, which stirs trouble by attacking local animals.",
+        "ExtractedText": "June 27. The rains have heralded the arrival of some seasonal visitors—a leopard, and several thousand leeches. Yesterday afternoon the leopard lifted a dog from near the servants’ quarter below the school. In the evening it attacked one of Bijju’s cows but fled at the approach of Bijju’s mother, who came screaming imprecations. As for the leeches, I shall soon get used to a little bloodletting every day. Other new arrivals are the scarlet minivets (the females are yellow), flitting silently among the leaves like brilliant jewels. No matter how leafy the trees, these brightly coloured birds cannot conceal themselves, although, by remaining absolutely silent, they sometimes contrive to go unnoticed. Along come a pair of drongos, unnecessarily aggressive, chasing the minivets away. A tree creeper moves rapidly up the trunk of the oak tree, snapping up insects all the way. Now that the rains are here, there is no dearth of food for the insectivorous birds."
+    },
+    {
+        "id": "3aa7e4be-4a0a-4c73-b053-b0b6b26a341f",
+        "Situation": 4,
+        "Label": "Persistent Tropical Downpour",
+        "Description": "A steady tropical downpour dominates the night, providing a rhythmic backdrop for reflection.",
+        "ExtractedText": "August 2. All night the rain has been drumming on the corrugated tin roof. There has been no storm, no thunder, just the steady swish of a tropical downpour. It helps me to lie awake; at the same time, it doesn’t keep me from sleeping. It is a good sound to read by — the rain outside, the quiet within — and, although tin roofs are given to springing unaccountable leaks, there is a feeling of being untouched by, and yet in touch with, the rain."
+    },
+    {
+        "id": "4fd15359-613e-47d9-bf33-a58c0a783831",
+        "Situation": 5,
+        "Label": "Brief Respite and Aftermath of Rain",
+        "Description": "The rain briefly stops, revealing the vibrancy of nature and life immediately after.",
+        "ExtractedText": "August 3. The rain stops. The clouds begin to break up, the sun strikes the hill on my left. A woman is chopping up sticks. I hear the tinkle of cowbells. In the oak tree, a crow shakes the raindrops from his feathers and caws disconsolately. Water drips from a leaking drainpipe. And suddenly, clean and pure, the song of the whistling thrush emerges like a dark sweet secret from the depths of the ravine."
+    },
+    {
+        "id": "da67521c-8b53-4a7b-8357-ae63c9688b34",
+        "Situation": 6,
+        "Label": "Endless Rain and Monotonous Days",
+        "Description": "The continuous rain creates a persistent mist, causing a gloomy and damp atmosphere.",
+        "ExtractedText": "August 12. Endless rain, and a permanent mist. We haven’t seen the sun for eight or nine days. Everything damp and soggy. Nowhere to go. Pace the room, look out of the window at a few bobbing umbrellas. At least it isn’t cold rain. The hillsides are lush as late-monsoon flowers begin to appear — wild balsam, dahlias, begonias and ground orchids."
+    },
+    {
+        "id": "69f9f4fd-4b26-487e-9a5a-9333fbf4ae19",
+        "Situation": 7,
+        "Label": "Peak of Monsoon Growth",
+        "Description": "The lushness of the monsoon flora reaches its peak, marking the end of the rainy season.",
+        "ExtractedText": "August 31. It is the last day of August, and the lush monsoon growth has reached its peak. The seeds of the cobra lily are turning red, signifying that the rains are coming to an end. In a few days the ferns will start turning yellow, but right now they are still firm, green, and upright. Ground orchids, mauve lady’s slipper, and the white butterfly orchids put on a fashion display on the grassy slopes of Landour. Wild dahlias, red, yellow, and magenta, rear their heads from the rocky crevices where they have taken hold. Snakes and rodents, flooded out of their holes and burrows, take shelter in roofs, attics, and godowns. A shrew, weak of eyesight, blunders about the rooms, much to the amusement of the children. 'Don’t kill it,' admonishes their grandmother. 'Chuchundars are lucky — they bring money!' And sure enough, I receive a cheque in the mail. Not a very large one, but welcome all the same."
+    },
+    {
+        "id": "4b56fe44-cbaf-4d89-9207-4d8a15793a30",
+        "Situation": 8,
+        "Label": "Transition to Winter",
+        "Description": "As the monsoon ends, the weather abruptly transitions into winter, bringing early snow and a change in landscape.",
+        "ExtractedText": "October 3. We have gone straight from monsoon into winter rain. Snow at higher altitudes. After an evening hailstorm, the sky and hills are suffused with a beautiful golden light."
+    },
+    {
+        "id": "31262124-6226-44e8-b053-63d0a60fa7c6",
+        "Situation": 9,
+        "Label": "Winter Rains",
+        "Description": "Winter rains envelop the surroundings, providing a setting for introspection and solitude.",
+        "ExtractedText": "January 26. Winter Rains in the Hills. In the hushed silence of the house when I am quite alone, and my friend, who was here has gone, it is very lonely, very quiet, as I sit in a liquid silence, a silence within, surrounded by the rhythm of rain, the steady drift of water on leaves, on lemons, on roof, drumming on drenched dahlias and window panes, while the mist holds the house in a dark caress. As I pause near a window, the rain stops. And starts again. And the trees, no longer green but grey, menace me with their loneliness."
+    },
+    {
+        "id": "101a1b44-614a-41c7-a1b1-4cb3c281a3ec",
+        "Situation": 10,
+        "Label": "End of Winter and Hailstorm",
+        "Description": "A significant hailstorm at the end of winter clears the skies, leading to the appearance of a rainbow.",
+        "ExtractedText": "March 23. Late March. End of winter. The blackest cloud I’ve ever seen squatted over Mussoorie, and then it hailed marbles for half an hour. Nothing like a hailstorm to clear the sky. Even as I write, I see a rainbow forming."
+    }                                        
+]

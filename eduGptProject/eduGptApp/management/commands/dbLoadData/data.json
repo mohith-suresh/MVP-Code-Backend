@@ -1,0 +1,507 @@
+{
+    "School" : [
+        {
+            "name" : "SJC",
+            "city" : "Allahabad",
+            "address" : "Tashkent Marg",
+            "board" : "ICSE"
+        },
+        {
+            "name" : "BHS",
+            "city" : "Allahabad",
+            "address" : "Katra",
+            "board" : "ICSE"
+        }
+    ],
+    "Subjects" : [
+        {
+            "name": "English Literature",
+            "school": 1
+        },
+        {
+            "name": "History",
+            "school": 1
+        },
+        {
+            "name": "Geography",
+            "school": 1
+        },
+        {
+            "name": "Maths",
+            "school": 1
+        },
+        {
+            "name": "Science",
+            "school": 1
+        },
+        {
+            "name": "Biology",
+            "school": 2
+        },
+        {
+            "name": "Maths",
+            "school": 2
+        },
+        {
+            "name": "Hindi",
+            "school": 2
+        }
+    ],
+
+    "Books" : [
+        {
+            "name": "NCERT English Literature",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Eng_Lit",
+            "subject": "English Literature"
+        },
+        {
+            "name": "NCERT History",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Eng_Lang",
+            "subject": "History"
+        },
+        {
+            "name": "NCERT Geography",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Hist",
+            "subject": "Geography"
+        },
+        {
+            "name": "NCERT Maths",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Civics",
+            "subject": "Maths"
+        },
+        {
+            "name": "NCERT Science",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Geo",
+            "subject": "Science"
+        },
+        {
+            "name": "NCERT Physics",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Phy",
+            "subject": "Physics"
+        },
+        {
+            "name": "NCERT Chemistry",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Chem",
+            "subject": "Chemistry"
+        },
+        {
+            "name": "NCERT Biology",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Bio",
+            "subject": "Biology"
+        },
+        {
+            "name": "NCERT Maths",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Maths",
+            "subject": "Maths"
+        },
+        {
+            "name": "NCERT Hindi",
+            "publisher": "Bruce Alberts",
+            "link": "http://www.example.com/books/NCERT_Hindi",
+            "subject": "Hindi"
+        }
+    ],
+    "Chapters" : [
+        {
+            "name" : "A Short Monsoon Diary",
+            "book" : 1,
+            "assistant": {
+                "Ask Textbooks" : "asst_ESO9HMFgz4svsKAuAF5st2BW",
+                "Teaching Methods Generator" : "asst_qNYY9zTGQ1tN8xajGOBS5VVT",
+                "Lecture Planner" : "asst_FyV5STel5nmOpvGGHKZSt6d7",
+                "Create Tests" : "asst_7m8ADdan3J7IXZ8rgd1kqNJg",
+                "Column Tests" : "asst_jgoqhdSFrUAbfcxeuj7XoYYR",
+                "AI Tutor" : "asst_tXA4YgQBR1BZs0Q4VWZ00JMb",
+                "Feedback" : "asst_0JFkRSBtj7dHR8sQFrf731YV",
+                "Revision" : "asst_F53oHBl6cX6hkwvEO5rMmfYY",
+                "Reference" : "asst_GXfx9xqc3xEGnH6QAo47tVlT"
+            }
+        },
+        {
+            "name": "Glimpses of the Past",
+            "book": 1,
+            "assistant": {
+                "Ask Textbooks" : "asst_6ZJrqMPcjce4BupM77TboCsB",
+                "Teaching Methods Generator" : "asst_IE3xB3oGq8WQISbmY7Z6tZqd",
+                "Lecture Planner" : "asst_n67Fc0wPJoKnjfyGdO60N0Tx",
+                "Create Tests" : "asst_1EsrqezJev5fKCYGXjTE7QAK",
+                "Column Tests" : "asst_P0cxuM6UInYKcyGv4QDmMSbV",
+                "AI Tutor" : "asst_21pn3G67FjvleDTmLnwwCW6U",
+                "Feedback" : "asst_AaiLzgbrN3ehQYorsZMGSHnw",
+                "Revision" : "asst_NotTjgftxti2OXnOBm8Sbs2s",
+                "Reference" : "asst_q1MfhSvesSEEKhi0p5Z8wDxG"
+            }
+            
+        },
+        {
+            "name": "The Best Christmas Present in the World",
+            "book": 1,
+            "assistant": {
+                "Ask Textbooks" : "asst_Zv1gpZRUQIPRqQLny45efzYZ",
+                "Teaching Methods Generator" : "asst_R0AJ2okDFVT7GWaPbjtYyBoz",
+                "Lecture Planner" : "asst_ZbQSeSIn9ef3rioWGW9imJEU",
+                "Create Tests" : "asst_1cqDuZ3ZD2mPGMIMDRaMBkpk",
+                "Column Tests" : "asst_wbB5fGVymXwaGODcgHB39Bha",
+                "AI Tutor" : "asst_ZSPaTDK2BKnzSPDh3fpBNOvz",
+                "Feedback" : "asst_SfUpcesGyq5uQ5jHhfD9vten",
+                "Revision" : "asst_sZB095nozmOGkhBytbVbEXBp",
+                "Reference" : "asst_74fQSMnORd8krxOWH6OF0Oie"
+            }
+        },
+
+        {
+            "name": "This is Jodys fawn",
+            "book": 1,
+            "assistant": {
+                "Ask Textbooks" : "asst_L11CubEq4Qa77fRdK5S1A0EJ",
+                "Teaching Methods Generator" : "asst_4Uvq1JPQm9h656ZxGeNOnwtj",
+                "Lecture Planner" : "asst_Lq0e6f3azfytMb8nJSNQDz9p",
+                "Create Tests" : "asst_Go1FOyfoHs7eqfaoOgwany6j",
+                "Column Tests" : "asst_XVk2m4ljyRXx8DLonCn2DgZg",
+                "AI Tutor" : "asst_FuROeFtXMmp0N3dT4xy8JY9n",
+                "Feedback" : "asst_yjbcGNUMT6g5XqxO65207aLb",
+                "Revision" : "asst_rh4TMsluJpUQ6YMzJ1AwBFGn",
+                "Reference" : "asst_Rew0ape18RrGWib61NLh0S7M"
+            }
+        },
+
+        {
+            "name": "From trade to territory",
+            "book": 2,
+            "assistant": {
+                "Ask Textbooks" : "asst_rvEq7ypFBuVr0DW9zMjIU9kV",
+                "Teaching Methods Generator" : "asst_t2KVstGitUL0GWOlB4e0FpgH",
+                "Lecture Planner" : "asst_wS5wIMduSo1A4YjkChfuq2fU",
+                "Create Tests" : "asst_GUcOuwq5ChODDYeT6k0So41k",
+                "Column Tests" : "asst_ozhO02n2fkXxx3iDlX2upF4O",
+                "AI Tutor" : "asst_Cy3VXj4NIurMzh3A3jRlYtFc",
+                "Feedback" : "asst_kSTP0vDeNMruWHtrnYvrWFsO",
+                "Revision" : "asst_5GhOEwvKGlkJoGaDY3CyUwda",
+                "Reference" : "asst_C3REvfr7EuLxMQlqK03oJCl1"
+            }
+        },
+        {
+            "name": "Introduction how when where",
+            "book": 2,
+            "assistant": {
+                "Ask Textbooks" : "asst_Q1YyS6ve81BsyjD7F799HQQM",
+                "Teaching Methods Generator" : "asst_LTF0KkkZy6heJVMZSm63UV47",
+                "Lecture Planner" : "asst_aqXhby1FOq9OyFJBmfoYEnCi",
+                "Create Tests" : "asst_bcnTx1iEfwhnMUsMEJzPSZM1",
+                "Column Tests" : "asst_WsuIUaEvmMXCVHmTCOCW4dAt",
+                "AI Tutor" : "asst_aAC7OIKF4yKrDXEVkofWnT8d",
+                "Feedback" : "asst_igbNqEHuOX1HUkW9Zsy4WZIe",
+                "Revision" : "asst_cm4aCjJ4TGcgjuXBLMpSXZPP",
+                "Reference" : "asst_8aXoYVqaB70r2EziYOSuCQZU"
+            }
+        },
+        {
+            "name": "Agriculture",
+            "book": 3,
+            "assistant": {
+                "Ask Textbooks" : "asst_CIM6hBGybljGn5V7C2LVRxkZ",
+                "Teaching Methods Generator" : "asst_roFGrdsubofNCweUpav5Y4QM",
+                "Lecture Planner" : "asst_hfhUvfHbJJsUiEE5EbLASX5v",
+                "Create Tests" : "asst_O8valUQOA4WUvF9qwZqaniuk",
+                "Column Tests" : "asst_YruQViGqb01kWRyT49q9UatZ",
+                "AI Tutor" : "asst_imQBlZoHpXjLMVsvsNlaUasq",
+                "Feedback" : "asst_y6Wpty3DwxKFxXoaTXPdyCFY",
+                "Revision" : "asst_71TCZEIP835CWeGKqq1DeRCS",
+                "Reference" : "asst_VHDC3yV1FhgKPmn4gbwwUYiK"
+            }
+        },
+        {
+            "name": "Land Soil Water Natural Vegetation and wildlife resources",
+            "book": 3,
+            "assistant": {
+                "Ask Textbooks" : "asst_F9brLvtQnehU6SLcs2Tgjqcw",
+                "Teaching Methods Generator" : "asst_VuasHEXg0tkxKDASGKueVH1h",
+                "Lecture Planner" : "asst_GJLlciTdQdG8f5GnX7885Bjz",
+                "Create Tests" : "asst_JOY8mh2lxeUevCZzzQGvl9YR",
+                "Column Tests" : "asst_jv5VPfS7A3lcC44artAf5PJN",
+                "AI Tutor" : "asst_XuwL85Ic9y9G025hJWoC7ziZ",
+                "Feedback" : "asst_KSpF9Mqm8IDxAGMJ2IpWtN2m",
+                "Revision" : "asst_AbALpU4MN86OblYmWvW65lsk",
+                "Reference" : "asst_IKBzxCMB4SCLOaeceMNp3xlC"
+            }
+        },
+        {
+            "name": "Algebric expressions and identities",
+            "book": 4,
+            "assistant": {
+                "Ask Textbooks" : "asst_iE0VMYFYURQDDFAA6cikaltb",
+                "Teaching Methods Generator" : "asst_LTF0KkkZy6heJVMZSm63UV47",
+                "Lecture Planner" : "asst_aqXhby1FOq9OyFJBmfoYEnCi",
+                "Create Tests" : "asst_bcnTx1iEfwhnMUsMEJzPSZM1",
+                "Column Tests" : "asst_WsuIUaEvmMXCVHmTCOCW4dAt",
+                "AI Tutor" : "asst_aAC7OIKF4yKrDXEVkofWnT8d",
+                "Feedback" : "asst_igbNqEHuOX1HUkW9Zsy4WZIe",
+                "Revision" : "asst_cm4aCjJ4TGcgjuXBLMpSXZPP",
+                "Reference" : "asst_8aXoYVqaB70r2EziYOSuCQZU"
+            }
+        },
+        {
+            "name": "Cubes and cube roots",
+            "book": 4
+        },
+        {
+            "name": "Data handling",
+            "book": 4
+        },
+        {
+            "name": "Direct and inverse proportions",
+            "book": 4
+        },
+        {
+            "name": "Force and pressure",
+            "book": 5
+        },
+        {
+            "name": "Reproduction in animals",
+            "book": 5
+        },
+        {
+            "name": "Classical Mechanics",
+            "book": 6
+        },
+        {
+            "name": "Thermodynamics and Statistical Mechanics",
+            "book": 6
+        },
+        {
+            "name": "Electromagnetism Fundamentals",
+            "book": 6
+        },
+        {
+            "name": "Quantum Mechanics Introduction",
+            "book": 6
+        },
+        {
+            "name": "Relativity Theory Basics",
+            "book": 6
+        },
+        {
+            "name": "The Periodic Table and Chemical Bonding",
+            "book": 7
+        },
+        {
+            "name": "Organic Chemistry: Hydrocarbons",
+            "book": 7
+        },
+        {
+            "name": "Acids, Bases, and Salts",
+            "book": 7
+        },
+        {
+            "name": "Chemical Reactions and Equations",
+            "book": 7
+        },
+        {
+            "name": "Biochemistry Basics",
+            "book": 7
+        },
+        {
+            "name": "Cell Structure and Function",
+            "book": 8
+        },
+        {
+            "name": "Genetics and Evolution",
+            "book": 8
+        },
+        {
+            "name": "Human Anatomy and Physiology",
+            "book": 8
+        },
+        {
+            "name": "Plant Biology and Photosynthesis",
+            "book": 8
+        },
+        {
+            "name": "Ecology and Environmental Science",
+            "book": 8
+        },
+        {
+            "name": "Linear Equation in One Variable",
+            "book": 9
+        },
+        {
+            "name": "Understanding Quadrilaterals",
+            "book": 9
+        },
+        {
+            "name": "Data Handling",
+            "book": 9
+        },
+        {
+            "name": "Squares and Square Roots",
+            "book": 9
+        },
+        {
+            "name": "Cube and Cube Roots",
+            "book": 9
+        },
+        {
+            "name": "हिंदी वर्णमाला: स्वर और व्यंजन",
+            "book": 10
+        },
+        {
+            "name": "हिंदी व्याकरण: संधि और समास",
+            "book": 10
+        },
+        {
+            "name": "हिंदी साहित्य: कविता",
+            "book": 10
+        },
+        {
+            "name": "हिंदी साहित्य: गद्य",
+            "book": 10
+        },
+        {
+            "name": "हिंदी लेखन कौशल",
+            "book": 10
+        }                                                                                                                                                                                                                                                                                               
+        
+    ],
+
+    "SchoolClass" : [
+        {
+            "designation" : "8-A",
+            "school" : 1,
+            "subjects" : [1,2,3,4,5],
+            "books" : {
+                "1" : 1,
+                "2" : 2,
+                "3" : 3,
+                "4" : 4,
+                "5" : 5
+                
+            }
+        },
+        {
+            "designation" : "8-B",
+            "school" : 1,
+            "subjects" : [1,2,3,4,5],
+            "books" : {
+                "1" : 1,
+                "2" : 2,
+                "3" : 3,
+                "4" : 4,
+                "5" : 5
+                
+            }
+        },
+        {
+            "designation" : "8-C",
+            "school" : 1,
+            "subjects" : [1,2,3,4,5],
+            "books" : {
+                "1" : 1,
+                "2" : 2,
+                "3" : 3,
+                "4" : 4,
+                "5" : 5
+                
+            }
+        },
+        {
+            "designation" : "8-D",
+            "school" : 1,
+            "subjects" : [1,2,3,4,5],
+            "books" : {
+                "1" : 1,
+                "2" : 2,
+                "3" : 3,
+                "4" : 4,
+                "5" : 5
+                
+            }
+        },
+        {
+            "designation" : "8-E",
+            "school" : 1,
+            "subjects" : [1,2,3,4,5],
+            "books" : {
+                "1" : 1,
+                "2" : 2,
+                "3" : 3,
+                "4" : 4,
+                "5" : 5
+                
+            }
+        },
+        {
+            "designation" : "8-F",
+            "school" : 2,
+            "subjects" : [6,7,8,9,10],
+            "books" : {
+                "6" : 6,
+                "7" : 7,
+                "8" : 8,
+                "9" : 9,
+                "10" : 10
+                
+            }
+        },
+        {
+            "designation" : "8-G",
+            "school" : 2,
+            "subjects" : [6,7,8,9,10],
+            "books" : {
+                "6" : 6,
+                "7" : 7,
+                "8" : 8,
+                "9" : 9,
+                "10" : 10
+                
+            }
+        },
+        {
+            "designation" : "8-H",
+            "school" : 2,
+            "subjects" : [6,7,8,9,10],
+            "books" : {
+                "6" : 6,
+                "7" : 7,
+                "8" : 8,
+                "9" : 9,
+                "10" : 10
+                
+            }
+        },
+        {
+            "designation" : "8-I",
+            "school" : 2,
+            "subjects" : [6,7,8,9,10],
+            "books" : {
+                "6" : 6,
+                "7" : 7,
+                "8" : 8,
+                "9" : 9,
+                "10" : 10
+                
+            }
+        },
+        {
+            "designation" : "8-J",
+            "school" : 2,
+            "subjects" : [6,7,8,9,10],
+            "books" : {
+                "6" : 6,
+                "7" : 7,
+                "8" : 8,
+                "9" : 9,
+                "10" : 10
+                
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "id": "481db1e2d5a08131-ccf667ccce2c1f9e-26c6f4ce0b83fa16-37d97ebd878da48c",
+        "Situation": 1,
+        "Label": "Running Late for Class",
+        "Description": "Franz rushes to school late, fearing punishment for being unprepared for the lesson on participles.",
+        "ExtractedText": "I started for school very late that morning and was in great dread of a scolding, especially because M.Hamel had said that he would question us on participles, and I did not know the first word about them."
+    },
+    {
+        "id": "f2dc000b4307e460-6b45f20ca6870b8b-f65f836109d0bffd-c05bca7319d01ec7",
+        "Situation": 2,
+        "Label": "Wanting to Skip School",
+        "Description": "Franz is tempted to skip school and enjoy the beautiful day outdoors instead of attending the lesson on participles.",
+        "ExtractedText": "For a moment I thought of running away and spending the day out of doors. It was so warm, so bright! The birds were chirping at the edge of the woods; and in the open field back of the sawmill the Prussian soldiers were drilling. It was all much more tempting than the rule for participles, but I had the strength to resist, and hurried off to school."
+    },
+    {
+        "id": "728dd84dbad0c4b1-6ae12fb2474aae0b-fd613ffe00e89033-b5467c34465bf694",
+        "Situation": 3,
+        "Label": "Crowd at the Town Hall",
+        "Description": "On his way, Franz notices a crowd gathered at the town hall bulletin board, hinting at potential bad news.",
+        "ExtractedText": "When I passed the town hall there was a crowd in front of the bulletin-board. For the last two years all our bad news had come from there \u2014 the lost battles, the draft, the orders of the commanding officer \u2014 and I thought to myself, without stopping, 'What can be the matter now?'"
+    },
+    {
+        "id": "d7eaabd62cfc31da-830ba153511ec5bc-74f4ce01bb3e2997-67d0a183789a1b53",
+        "Situation": 4,
+        "Label": "Blacksmith's Comment",
+        "Description": "The blacksmith Wachter comments on Franz's hurry to get to school, hinting at the gravity of the news posted.",
+        "ExtractedText": "Then, as I hurried by as fast as I could go, the blacksmith, Wachter, who was there, with his apprentice, reading the bulletin, called after me, 'Don't go so fast, bub; you'll get to your school in plenty of time!' I thought he was making fun of me, and reached M.Hamel's little garden all out of breath."
+    },
+    {
+        "id": "5ae8807694fd02f4-38daf90018820382-13bde27331e76239-9f9cb199401d6f13",
+        "Situation": 5,
+        "Label": "Quiet Classroom",
+        "Description": "Franz enters the unusually quiet and solemn classroom, surprised by the presence of village elders.",
+        "ExtractedText": "Usually, when school began, there was a great bustle which could be heard out in the street, the opening and closing of desks, lessons repeated in unison, very loud, with our hands over our ears to understand better, and the teacher\u2019s great ruler rapping on the table. But now it was all so still!  I had counted on the commotion to get to my desk without being seen; but, of course, that day everything had to be as quiet as Sunday morning. Through the window I saw my classmates, already in their places, and M.Hamel walking up and down with his terrible iron ruler under his arm. I had to open the door and go in before everybody. You can imagine how I blushed and how frightened I was. But nothing happened. M.Hamel saw me and said very kindly, \u201cGo to your place quickly, little Franz. We were beginning without you.\u201d I jumped over the bench and sat down at my desk. Not till then, when I had got a little over my fright, did I see that our teacher had on his beautiful green coat, his frilled shirt, and the little black silk cap, all embroidered, that he never wore except on inspection and prize days. Besides, the whole school seemed so strange and solemn. But the thing that surprised me most was to see, on the back benches that were always empty, the village people sitting quietly like ourselves; old Hauser, with his three-cornered hat, the former mayor, the former postmaster, and several others besides. Everybody looked sad; and Hauser had brought an old primer, thumbed at the edges, and he held it open on his knees with his great spectacles lying across the pages."
+    },
+    {
+        "id": "80cc6d7738aefc1b-788752a283bb9d9a-e623658b968ddf16-78362d29338d585c",
+        "Situation": 6,
+        "Label": "Last French Lesson Announced",
+        "Description": "M. Hamel solemnly announces that this is the last French lesson before German instruction begins.",
+        "ExtractedText": "While I was wondering about it all, M.Hamel mounted his chair, and, in the same grave and gentle tone which he had used to me, said, 'My children, this is the last lesson I shall give you. The order has come from Berlin to teach only German in the schools of Alsace and Lorraine. The new master comes tomorrow. This is your last French lesson. I want you to be very attentive.'"
+    },
+    {
+        "id": "c66accc5aaa19e3b-31c4b640d35e160c-526485884a97c00a-c6dbeedc62733e87",
+        "Situation": 7,
+        "Label": "Franz's Regret",
+        "Description": "Franz is struck with regret, realizing the significance of this final opportunity to learn French.",
+        "ExtractedText": "What a thunderclap these words were to me! Oh, the wretches; that was what they had put up at the town-hall! My last French lesson! Why, I hardly knew how to write! I should never learn any more! I must stop there, then! Oh, how sorry I was for not learning my lessons, for seeking birds' eggs, or going sliding on the Saar! My books, that had seemed such a nuisance a while ago, so heavy to carry, my grammar, and my history of the saints, were old friends now that I couldn't give up."
+    },
+    {
+        "id": "a96cb07223c0cd02-e3a4c2389b39096a-73f29ac92f5a927b-84b36a21ec417be2",
+        "Situation": 8,
+        "Label": "Honoring Teacher and French Culture",
+        "Description": "Franz understands the village elders' presence as a show of respect for M. Hamel and the French culture.",
+        "ExtractedText": "And M.Hamel, too; the idea that he was going away, that I should never see him again, made me forget all about his ruler and how cranky he was. Poor man! It was in honour of this last lesson that he had put on his fine Sunday clothes, and now I understood why the old men of the village were sitting there in the back of the room. It was because they were sorry, too, that they had not gone to school more. It was their way of thanking our master for his forty years of faithful service and of showing their respect for the country that was theirs no more."
+    },
+    {
+        "id": "77603f9aa96cb8d4-1162114b03dbfb50-bdb44fa6c76d5611-9b107c5193171039",
+        "Situation": 9,
+        "Label": "Importance of French Language",
+        "Description": "M. Hamel emphasizes the beauty and importance of preserving the French language as a symbol of identity.",
+        "ExtractedText": "Then, from one thing to another, M.Hamel went on to talk of the French language, saying that it was the most beautiful language in the world \u2014 the clearest, the most logical; that we must guard it among us and never forget it, because when a people are enslaved, as long as they hold fast to their language it is as if they had the key to their prison."
+    },
+    {
+        "id": "2ccb18faaafaa636-b7abe4c141f1c972-41cd4b89961cbb2c-1d657255eceffa77",
+        "Situation": 10,
+        "Label": "Grammar Lesson",
+        "Description": "M. Hamel conducts a grammar lesson, and Franz is amazed at how well he understands it.",
+        "ExtractedText": "While I was thinking of all this, I heard my name called. It was my turn to recite. What would I not have given to be able to say that dreadful rule for the participle all through, very loud and clear, and without one mistake? But I got mixed up on the first words and stood there, holding on to my desk, my heart beating, and not daring to look up. I heard M.Hamel say to me, \u201cI won\u2019t scold you, little Franz; you must feel bad enough. See how it is! Every day we have said to ourselves, \u2018Bah! I\u2019ve plenty of time. I\u2019ll learn it tomorrow.\u2019 And now you see where we\u2019ve come out. Ah, that\u2019s the great trouble with Alsace; she puts off learning till tomorrow. Now those fellows out there will have the right to say to you, \u2018How is it; you pretend to be Frenchmen, and yet you can neither speak nor write your own language?\u2019 But you are not the worst, poor little Franz. We\u2019ve all a great deal to reproach ourselves with.\u201d \u201cYour parents were not anxious enough to have you learn. They preferred to put you to work on a farm or at the mills, so as to have a little more money. And I? I\u2019ve been to blame also. Have I not often sent you to water my flowers instead of learning your lessons? And when I wanted to go fishing, did I not just give you a holiday?\u201d Then, from one thing to another, M.Hamel went on to talk of the French language, saying that it was the most beautiful language in the world \u2014 the clearest, the most logical; that we must guard it among us and never forget it, because when a people are enslaved, as long as they hold fast to their language it is as if they had the key to their prison. Then he opened a grammar and read us our lesson. I was amazed to see how well I understood it. All he said seemed so easy, so easy! I think, too, that I had never listened so carefully, and that he had never explained everything with so much patience. It seemed almost as if the poor man wanted to give us all he knew before going away, and to put it all into our heads at one stroke."
+    },
+    {
+        "id": "cd8f64b5b91d17a2-e77e8e9c3819c57a-198562272c326da8-1782cd1187377dfa",
+        "Situation": 11,
+        "Label": "Writing Lesson",
+        "Description": "The students diligently engage in a writing lesson, cherishing the opportunity to learn French.",
+        "ExtractedText": "After the grammar, we had a lesson in writing. That day M.Hamel had new copies for us, written in a beautiful round hand \u2014 France, Alsace, France, Alsace. They looked like little flags floating everywhere in the school-room, hung from the rod at the top of our desks. You ought to have seen how every one set to work, and how quiet it was! The only sound was the scratching of the pens over the paper."
+    },
+    {
+        "id": "b8f501a023de667c-b2bb4c973c2657f7-4b5cf55781e13ac0-a8d68deccacaea62",
+        "Situation": 12,
+        "Label": "History and Reading Lessons",
+        "Description": "M. Hamel conducts a history lesson, and the younger students practice reading aloud.",
+        "ExtractedText": "Once some beetles flew in; but nobody paid any attention to them, not even the littlest ones, who worked right on tracing their fish-hooks, as if that was French, too. On the roof the pigeons cooed very low, and I thought to myself, \u201cWill they make them sing in German, even the pigeons?\u201d Whenever I looked up from my writing I saw M.Hamel sitting motionless in his chair and gazing first at one thing, then at another, as if he wanted to fix in his mind just how everything looked in that little school-room. Fancy! For forty years he had been there in the same place, with his garden outside the window and his class in front of him, just like that. Only the desks and benches had been worn smooth; the walnut-trees in the garden were taller, and the hopvine that he had planted himself twined about the windows to the roof. How it must have broken his heart to leave it all, poor man; to hear his sister moving about in the room above, packing their trunks! For they must leave the country next day. But he had the courage to hear every lesson to the very last. After the writing, we had a lesson in history, and then the babies chanted their ba, be bi, bo, bu. Down there at the back of the room old Hauser had put on his spectacles and, holding his primer in both hands, spelled the letters with them."
+    },
+    {
+        "id": "491ae6618b2af3b4-4b704c12c52b50c5-ca1e17aae0260d5a-eed925232b984eb2",
+        "Situation": 13,
+        "Label": "The Final Moments",
+        "Description": "As church bells and Prussian trumpets sound, M. Hamel defiantly writes 'Vive La France!' before dismissing the class.",
+        "ExtractedText": "You could see that he, too, was crying; his voice trembled with emotion, and it was so funny to hear him that we all wanted to laugh and cry. Ah, how well I remember it, that last lesson! All at once the church-clock struck twelve. Then the Angelus. At the same moment the trumpets of the Prussians, returning from drill, sounded under our windows. M.Hamel stood up, very pale, in his chair. I never saw him look so tall. 'My friends,' said he, 'I\u2014I\u2014' But something choked him. He could not go on. Then he turned to the blackboard, took a piece of chalk, and, bearing on with all his might, he wrote as large as he could \u2014 'Vive La France!' Then he stopped and leaned his head against the wall, and, without a word, he made a gesture to us with his hand \u2014 'School is dismissed \u2014 you may go.'"
+    }
+]
