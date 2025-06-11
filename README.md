@@ -8,6 +8,6 @@ An end-to-end, multi-module AI tutoring system for adaptive quizzes, lecture pla
 |-----------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **MVP-Code-Frontend** | Next.js 13 client for interactive quizzes, lecture planning, AI tutoring, and live streaming | https://github.com/mohith-suresh/MVP-Code-Frontend                   |
 | **MVP-Code-Backend**  | Django REST API orchestrating multi-agent RAG workflows, session management, and SSE streams  | https://github.com/mohith-suresh/MVP-Code-Backend                    |
-| **db**                | PostgreSQL schema + pgvector extension for semantic embeddings and vector similarity search   | https://github.com/mohith-suresh/db                                  |
+| **db**                | Docker and pgvector extension    | https://github.com/mohith-suresh/db                                  |
 | **textBookSnip**      | Ingestion tool converting textbook PDFs/HTML into span-mapped content and embeddings          | https://github.com/mohith-suresh/textBookSnip                        |
 
